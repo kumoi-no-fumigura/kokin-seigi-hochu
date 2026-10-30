@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokin-seigi-hochu",
  "yomi": "こきんしゅうせいぎそうろんほちゅう",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "注釈書（古今集）",
+  "era": "天保14年（1843）頃",
+  "author": "熊谷直好（1782〜1862）",
+  "desc": "景樹の『古今和歌集正義』の総論は分かりにくいという人々の声を受けて、師の没後に門人の直好が補注を加えたもの。"
+ },
  "editions": [
   {
    "pid": "993383",
